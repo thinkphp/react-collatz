@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# react-collatz
-=======
-# React + Vite
-
 # React Collatz
 
 A simple React application built with Vite that calculates the Collatz sequence for a given positive integer.
@@ -76,4 +71,3 @@ npm run deploy
 Live application:
 
 https://thinkphp.github.io/react-collatz/
->>>>>>> b040973 (readme)
